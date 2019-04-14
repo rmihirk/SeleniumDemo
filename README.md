@@ -1,10 +1,8 @@
-# Project Title
+## Selenium Automation Framwork Sample Project 
 
-Selenium Automation Framwork Sample Project 
-
-##Description
+### Description
 In this project contains pom.xml that's for project jar dependency 
 
-## Running the tests
+### Running the tests
 
 Install maven dependency and then going to excute testNG.xml
