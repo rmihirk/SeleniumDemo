@@ -1,4 +1,4 @@
-## Automation Sample Framwork by using selenium 
+## Automation sample framwork by using selenium 
 
 ### Description
 In this project contains pom.xml that's for project jar dependency 
